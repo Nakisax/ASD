@@ -1,0 +1,21 @@
+.header{
+    color: red;
+    font-size: 100px;
+    background-color: darkviolet;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+.header:hover{
+
+    color: green;
+    transition: 2s;
+}
+
+h1{
+    font-size: medium;
+    text-align: center;
+}
+img{
+    margin: auto;
+}
